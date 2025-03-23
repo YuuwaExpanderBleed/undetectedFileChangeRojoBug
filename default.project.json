@@ -1,0 +1,14 @@
+{
+	"name": "reproForRojoBug",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"thisDoNotGetDetected": {
+				"$path": "thisFileDoNotGetDetected.luau"
+			},
+			"thisGetsDetected": {
+				"$path": "thisGetsDetected"
+			}
+		}
+	}
+}
